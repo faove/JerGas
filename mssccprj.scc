@@ -1,0 +1,13 @@
+SCC = This is a Source Code Control file
+
+[GERGAS.vbp]
+SCC_Aux_Path =\\Csudoinf01\jergas\,
+SCC_Project_Name ="$/", aaaaaaaa
+
+[JERGAS.vbp]
+SCC_Aux_Path =\\Csudoinf01\jergas\,
+SCC_Project_Name ="$/JERGAS", QAAAAAAA
+
+[JERGAS1.vbp]
+SCC_Aux_Path =\\Csudoinf01\jergas\,
+SCC_Project_Name ="$/JERGAS1", FBAAAAAA

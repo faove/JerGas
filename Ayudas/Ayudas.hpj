@@ -1,0 +1,65 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+COMPRESS=12 Hall Zeck
+LCID=0xc0a 0x0 0x0 ; Spanish (International Sort)
+REPORT=Yes
+FTS=1
+CONTENTS=Contenido
+TITLE=Librería para el programador (gsAxDLL)
+CNT=gsAxDLL.cnt
+COPYRIGHT=©Guillermo 'guille' Som, 1999
+CITATION=©Guillermo 'guille' Som, 1999
+HLP=gsAxDLL.hlp
+
+[FILES]
+GsAxDLL.rtf
+
+[MAP]
+AcercaDe=20020
+Argumentos=21150
+ArgumentosEj=22150
+Cambio=21130
+CambioEj=22130
+Clasificar=21000
+ClasificarEj=22000
+ComboAuto=21160
+ComboAutoEj=22160
+Contenido=20000
+DriveType=21010
+DriveTypeEj=22010
+Ejemplos=20100
+FileOp=21020
+FileOpEj=22020
+Formulas=21140
+FormulasEj=22140
+GetTimer=21030
+GetTimerEj=22030
+GUID=21040
+GUIDEj=22040
+HtmlHelp=21050
+HtmlHelpEj=22050
+Libreria=21060
+LibreriaEj=22060
+NetEnum=21070
+NetEnumEj=22070
+Num2Text=21080
+Num2TextEj=22080
+ProfileIni=21170
+ProfileIniEj=22170
+QueryReg=21090
+QueryRegEj=22090
+TaskBar=21100
+TaskBarEj=22100
+Usarla=20010
+Windows=21110
+WindowsEj=22110
+Wrap=21120
+WrapEj=22120
+
+[WINDOWS]
+Main="Ayuda de la librería gsAxDLL",,60672,(r14876671),(r12632256),f3
+Ejemplo="Ejemplos de uso de las clases",(1,388,553,600),27652,(r14876671),(r12632256),f3
+
+[CONFIG]
+BrowseButtons()

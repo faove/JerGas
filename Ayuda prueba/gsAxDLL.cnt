@@ -1,0 +1,48 @@
+:Base gsAxDLL.hlp
+:Title Librería para programadores (gsAxDLL)
+1 Información general
+2 Contenido=Contenido>Main
+2 Cómo acceder a las clases=Usarla>Main
+2 Acerca de...=AcercaDe>Main
+1 Las clases
+2 Argumentos de la línea de comandos=Argumentos>Main
+2 Cambio=Cambio>Main
+2 Clasificar=Clasificar>Main
+2 Combo Automático=ComboAuto>Main
+2 Contenidos=Contenidos>Main
+2 DriveType=DriveType>Main
+2 FileOp (operaciones con ficheros)=FileOp>Main
+2 Formulas=Formulas>Main
+2 GetTimer=GetTimer>Main
+2 GUID=GUID>Main
+2 HtmlHelp=HtmlHelp>Main
+2 Libreria=Libreria>Main
+2 NetEnum=NetEnum>Main
+2 Num2Text=Num2Text>Main
+2 ProfileIni (manejo de ficheros INIs)=ProfileIni>Main
+2 QueryReg=QueryReg>Main
+2 Nombres de directorios del sistema=GetFolder>Main
+2 TaskBar=TaskBar>Main
+2 Windows=Windows>Main
+2 Wrap=Wrap>Main
+1 Código de Ejemplo
+2 Ejemplos=Ejemplos>Ejemplo
+2 Argumentos de la línea de comandos=ArgumentosEj>Ejemplo
+2 Cambio=CambioEj>Ejemplo
+2 Clasificar=ClasificarEj>Ejemplo
+2 Combo Automático=ComboAutoEj>Ejemplo
+2 Contenidos=Contenidos>Ejemplo
+2 DriveType=DriveTypeEj>Ejemplo
+2 FileOp (operaciones con ficheros)=FileOpEj>Ejemplo
+2 Formulas=FormulasEj>Ejemplo
+2 GetTimer=GetTimerEj>Ejemplo
+2 GUID=GUIDEj>Ejemplo
+2 HtmlHelp=HtmlHelpEj>Ejemplo
+2 Libreria=LibreriaEj>Ejemplo
+2 NetEnum=NetEnumEj>Ejemplo
+2 Num2Text=Num2TextEj>Ejemplo
+2 ProfileIni (manejo de ficheros INIs)=ProfileIniEj>Ejemplo
+2 QueryReg=QueryRegEj>Ejemplo
+2 TaskBar=TaskBarEj>Ejemplo
+2 Windows=WindowsEj>Ejemplo
+2 Wrap=WrapEj>Ejemplo
